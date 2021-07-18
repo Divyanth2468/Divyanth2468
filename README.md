@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently studying in IIIT Kottayam
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python, Web Dev
 - 👯 I’m looking to collaborate on Web Dev,Designing
 - 🤔 I’m looking for help with Trendles 
 - 💬 Ask me about Web Dev,Designing
