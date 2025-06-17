@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning C++, Python, Web Dev, ML, AI
 - 👯 I’m looking to collaborate on Web Dev, Designing, ML Research
 - 💬 Ask me about Web Dev,Designing,ML,Python,C++
-- 📫 How to reach me: https://divyanth2468.github.io/Portfolio/
+- 📫 How to reach me: https://portfolio-ds-nu.vercel.app/
 - ⚡ Fun fact: Jekyll
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Divyanth2468&show_icons=true&locale=en&layout=compact" alt="Divyanth2468" /></p>
 
